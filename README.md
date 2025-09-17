@@ -28,20 +28,20 @@ All datasets were preprocessed to align load and weather data at an hourly resol
 
 - `All Load Data/` contains xlsx files for each region.  
 - Each xlsx file includes the following columns:
-- `date`: local timestamp of the observation  
-- `Year`: calendar year  
-- `Month`: month number (1–12)  
-- `Day of Month`: day of the month (1–31)  
-- `Day of Week`: day of the week (1 = Monday, …, 7 = Sunday)  
-- `hour`: hour of the day (0–23)  
-- `Weekend / Public Holidays`: indicator (0 = weekday, 1 = weekend or public holiday)  
-- `temp`: air temperature (°C)  
-- `humidity`: relative humidity (%)  
-- `precip`: precipitation (mm)  
-- `windspeed`: wind speed (m/s)  
-- `winddir`: wind direction (degrees)  
-- `cloudcover`: cloud cover (%)  
-- `Load`: electricity demand (MW) 
+  - `date`: local timestamp of the observation  
+  - `Year`: calendar year  
+  - `Month`: month number (1–12)  
+  - `Day of Month`: day of the month (1–31)  
+  - `Day of Week`: day of the week (1 = Monday, …, 7 = Sunday)  
+  - `hour`: hour of the day (0–23)  
+  - `Weekend / Public Holidays`: indicator (0 = weekday, 1 = weekend or public holiday)  
+  - `temp`: air temperature (°C)  
+  - `humidity`: relative humidity (%)  
+  - `precip`: precipitation (mm)  
+  - `windspeed`: wind speed (m/s)  
+  - `winddir`: wind direction (degrees)  
+  - `cloudcover`: cloud cover (%)  
+  - `Load`: electricity demand (MW) 
 
 ## Usage
 
