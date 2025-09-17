@@ -1,0 +1,16 @@
+cff-version: 1.2.0
+message: "If you use this dataset, please cite the following paper."
+authors:
+  - family-names: Ahmad
+    given-names: Ahmad
+  - family-names: Xiao
+    given-names: Xun
+  - family-names: Mo
+    given-names: Huadong
+  - family-names: Dong
+    given-names: Daoyi
+title: "TFTformer Dataset"
+version: "1.0.0"
+doi: "10.1016/j.ijepes.2025.110549"
+date-released: 2025-09-18
+repository-code: "https://github.com/YOUR-USERNAME/TFTformer-data"
